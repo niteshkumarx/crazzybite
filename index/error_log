@@ -1,0 +1,18 @@
+[05-Aug-2016 17:24:36 Asia/Calcutta] PHP Fatal error:  Call to a member function isLogin() on a non-object in /home/niteshhhosting/public_html/crazzybite.com/index.php on line 272
+[05-Aug-2016 17:30:00 Asia/Kolkata] PHP Fatal error:  Call to a member function isLogin() on a non-object in /home/niteshhhosting/public_html/crazzybite.com/index.php on line 272
+[05-Aug-2016 17:30:11 Asia/Kolkata] PHP Fatal error:  Call to a member function isLogin() on a non-object in /home/niteshhhosting/public_html/crazzybite.com/index.php on line 272
+[05-Aug-2016 19:16:21 Asia/Kolkata] PHP Fatal error:  Call to a member function isLogin() on a non-object in /home/niteshhhosting/public_html/crazzybite.com/index.php on line 275
+[05-Aug-2016 19:44:06 Asia/Kolkata] PHP Fatal error:  Call to a member function isLogin() on a non-object in /home/niteshhhosting/public_html/crazzybite.com/index.php on line 275
+[05-Aug-2016 19:55:46 Asia/Kolkata] PHP Fatal error:  Call to a member function isLogin() on a non-object in /home/niteshhhosting/public_html/crazzybite.com/index.php on line 275
+[05-Aug-2016 19:55:52 Asia/Kolkata] PHP Fatal error:  Call to a member function isLogin() on a non-object in /home/niteshhhosting/public_html/crazzybite.com/index.php on line 275
+[05-Aug-2016 23:00:11 Asia/Kolkata] PHP Fatal error:  Call to a member function isLogin() on a non-object in /home/niteshhhosting/public_html/crazzybite.com/index.php on line 274
+[05-Aug-2016 23:09:36 Asia/Kolkata] PHP Fatal error:  Call to a member function isLogin() on a non-object in /home/niteshhhosting/public_html/crazzybite.com/index.php on line 274
+[05-Aug-2016 23:20:52 Asia/Kolkata] PHP Fatal error:  Call to a member function isLogin() on a non-object in /home/niteshhhosting/public_html/crazzybite.com/index.php on line 274
+[05-Aug-2016 23:23:28 Asia/Kolkata] PHP Fatal error:  Call to a member function isLogin() on a non-object in /home/niteshhhosting/public_html/crazzybite.com/index.php on line 274
+[06-Aug-2016 08:21:34 Asia/Kolkata] PHP Fatal error:  Call to a member function isLogin() on a non-object in /home/niteshhhosting/public_html/crazzybite.com/index.php on line 274
+[06-Aug-2016 09:00:32 Asia/Kolkata] PHP Fatal error:  Call to a member function isLogin() on a non-object in /home/niteshhhosting/public_html/crazzybite.com/index.php on line 274
+[06-Aug-2016 09:02:34 Asia/Kolkata] PHP Fatal error:  Call to a member function isLogin() on a non-object in /home/niteshhhosting/public_html/crazzybite.com/index.php on line 274
+[06-Aug-2016 09:02:58 Asia/Kolkata] PHP Fatal error:  Call to a member function isLogin() on a non-object in /home/niteshhhosting/public_html/crazzybite.com/index.php on line 274
+[06-Aug-2016 09:03:33 Asia/Kolkata] PHP Fatal error:  Call to a member function isLogin() on a non-object in /home/niteshhhosting/public_html/crazzybite.com/index.php on line 274
+[12-Aug-2016 10:26:48 UTC] PHP Fatal error:  Call to undefined function start_session() in /home/niteshhhosting/public_html/crazzybite.com/get_restaurant.php on line 3
+[12-Aug-2016 10:28:07 UTC] PHP Fatal error:  Call to a member function runQuery() on a non-object in /home/niteshhhosting/public_html/crazzybite.com/get_restaurant.php on line 13

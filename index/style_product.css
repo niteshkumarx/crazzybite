@@ -1,0 +1,85 @@
+.txt-heading{padding: 5px 10px;font-size:1.1em; color:#999;}
+a.btnRemoveAction{color:#8B3BF2;border:0;font-size:0.9em;}
+a.btnRemoveAction:visited{color:#8B3BF2;border:0;font-size:0.9em;}
+#btnEmpty{font-family:Museo; font-size:1.5em; background-color:#D60202;border-radius:4px;padding:1px 10px;color:#FFF; font-size:0.8em;font-weight:normal;float:right;text-decoration:none;}
+#btnEmpty:hover{background-color:#FF0000;}
+.btnAddAction{background-color:#79b946;border:0;padding:3px 10px;color:#FFF;margin-left:1px;width:80px;height:30px; font-size:10px;}
+.btnAdded{background-color:#CCC;border:0;padding:3px 10px;color:#FFF;margin-left:1px;width:80px;height:30px; font-size:10px;}
+#shopping-cart {border : #79b946 2px solid;margin-bottom:30px; border-radius:4px;}
+#shopping-cart .txt-heading{background-color: #D3F5B8;}
+.cart-item {border-bottom: #79b946 1px dotted;padding: 10px;}
+#product-grid { }
+#product-grid .txt-heading{background-color: #FFD0A6;}
+.product-item { 
+box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); 
+float:left;	background:#fff;
+margin:15px;border-radius:4px;
+border: #B5B5B5 solid 1px;	
+padding:5px; height:270px;
+width:200px;}
+.product-item:hover{box-shadow: 0 5px 10px rgba(255, 189, 3, 0.2);
+border: #FFBD03 solid 1.5px;	 }	
+.product-item div{
+text-align:center;	margin:10px;
+ border-radius:4px; 
+
+ background-size: cover; 
+ cursor:pointer;
+background-repeat: no-repeat;}
+	  
+.product-price {color:#F08426; font-family:Century Gothic;}
+.product-name {color:#F08426; font-family:Museo; font-size:17px;}
+.product-image {height:140px;background-color:#FFF;border: #B5B5B5 solid 1px;	}
+.clear-float{clear:both;margin-bottom:40px;}
+.cart-action{cursor:pointer;}
+.product-item-container{padding: 0 auto;
+position:relative;}
+
+.input_quant{border-radius:4px; height:30px; width:30px; font-size:10px; text-align:center;}
+.southindianbox, .chinesebox, .nonvegbox,  .vegbox{padding-left:55px;}
+
+.shopping-cart-visibility{}
+.shopping-cart-visibility-width{width:700px;}
+.shopping-cart-visibility-width-admin{width:500px;}
+
+.text-line:hover{text-decoration:underline;}
+
+.foodtype{
+			position: absolute;
+			top:35px;
+			right:15px;
+			width:35px;
+			height:80px;}
+
+@media (max-width: 480px)
+{.southindianbox, .chinesebox, .nonvegbox,  .vegbox{padding-left:28px;}
+.shopping-cart-visibility{visibility: collapse;}
+.shopping-cart-visibility-width{width:600px;}
+}
+
+@media (max-width: 800px){
+.shopping-cart-visibility{visibility: collapse;}
+}
+
+@media (max-width: 360px) 
+{
+.southindianbox, .chinesebox, .nonvegbox,  .vegbox{padding-left:15px;}
+.shopping-cart-visibility{visibility: collapse;}
+.shopping-cart-visibility-width{width:500px;}
+.emptcrt{font-family:Museo; font-size:.7em;}
+
+.product-item { 
+box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2); 
+float:left;	background:#fff;
+margin:15px;border-radius:4px;
+border: #B5B5B5 solid 1px;	
+padding:5px; height:215px;
+width:150px;}
+.input_quant{border-radius:4px; height:25px; width:30px; font-size:10px; text-align:center;}
+.product-price {color:#F08426; font-family:Century Gothic;font-size:10px;}
+.product-name {color:#F08426; font-family:Museo; font-size:13px;}
+.btnAddAction{background-color:#79b946;border:0;padding:3px 10px;color:#FFF;margin-left:1px;width:80px;height:25px; font-size:10px;}
+.btnAdded{background-color:#CCC;border:0;padding:3px 10px;color:#FFF;margin-left:1px;width:80px;height:25px; font-size:10px;}
+.product-image {height:100px;background-color:#FFF;border: #B5B5B5 solid 1px;	}
+
+}
